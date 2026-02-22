@@ -1,4 +1,4 @@
-[printshop-banner](media/printshop-banner.png)
+[media/printshop-banner.png](https://github.com/spezzyDev/PrintShop/blob/d2c0b6ed932faaeb50a6aa990a41bab2b55a074a/media/printshop-banner.png)
 
 # What is PrintShop?
 An Open-Source Website &amp; API to help Artist automate their "scan-to-ship" workflow, written in Go!
